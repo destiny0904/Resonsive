@@ -5,6 +5,7 @@
 
 - viewport 的适配
 - rem 单位的使用
+- H5 语义化标签的使用
 - flex 布局
 - 响应式图片
 - media query 的应用
